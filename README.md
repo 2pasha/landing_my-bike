@@ -2,9 +2,9 @@
 
 Landing page for a bike store. Presents the main products and services of the store, compares the most popular models of bikes, and provides a form for ordering a bike.
 
-# [DEMO LINK](https://2pasha.github.io/layout_my_bike/)
+## [DEMO LINK](https://2pasha.github.io/layout_my_bike/)
 
-# Technologies used
+## Technologies used
 
 - HTML5
 - CSS3
@@ -12,7 +12,7 @@ Landing page for a bike store. Presents the main products and services of the st
 - BEM methodology
 - JavaScript
 
-# Features Overview
+## Features Overview
 
 Layout is adaptive and responsive as well as cross-browser compatible. It works correctly on all screen sizes (mobile, tablet and desktop versions). Is is implemented using the mobile-first approach.
 
@@ -24,3 +24,14 @@ Semantic and meta tags are used. SEO optimization is done. Accessibility is impr
 *see google lighthouse report below*
 
 ![REPORT](./src/images/README-report.png)
+
+## Getting Started
+
+To view this project locally:
+
+1. Clone the repository: `git clone https://github.com/2pasha/landing_my-bike.git`
+2. Install dependencies:
+   `npm install`
+3. Start the development server:
+   `npm start`
+4. Open your browser and visit `http://localhost:3000`
